@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+"""
+Test changes.
+"""
 import os
 from typing import IO, BinaryIO, Iterable, Optional, Type
 
